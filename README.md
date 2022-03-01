@@ -2,20 +2,8 @@
 <param ve-config title="His Girl Friday by Howard Hawks, Released 21st September 1940" author="Amber Potter" layout="vtl" 
 banner="/images/banners/20c.jpg">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q921173" aliases="Aldington">
-
-# His-Girl-Friday
+# His Girl Friday
 Analysis of the movie His Girl Friday 
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
-<param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
