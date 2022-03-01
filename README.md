@@ -1,4 +1,13 @@
-# His-Girl-Friday-
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<param ve-config title="His Girl Friday by Howard Hawks, Released 21st September 1940" author="Amber Potter" layout="vtl" 
+banner="/images/banners/20c.jpg">
+
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q921173" aliases="Aldington">
+
+# His-Girl-Friday
 Analysis of the movie His Girl Friday 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
