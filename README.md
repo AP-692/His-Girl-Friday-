@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="His Girl Friday by Howard Hawks, Released 21st September 1940" author="Amber Potter" layout="vtl" 
-banner="/images/banners/20c.jpg">
+banner="/images/banners/20c.jpg">[[File:His Girl Friday (1940 poster).jpg|His_Girl_Friday_(1940_poster)]]
 
 # His Girl Friday
 Analysis of the movie His Girl Friday 
